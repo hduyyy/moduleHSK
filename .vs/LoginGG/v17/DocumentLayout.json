@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|e:\\dnnregister\\dnnregrister\\desktopmodules\\logingg\\formlogincallback.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|solutionrelative:formlogincallback.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|e:\\dnnregister\\dnnregrister\\desktopmodules\\logingg\\headerpage.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|solutionrelative:headerpage.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|e:\\dnnregister\\dnnregrister\\desktopmodules\\logingg\\home.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|solutionrelative:home.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|e:\\dnnregister\\dnnregrister\\desktopmodules\\logingg\\home.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|solutionrelative:home.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|e:\\dnnregister\\dnnregrister\\desktopmodules\\logingg\\view.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|solutionrelative:view.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|e:\\dnnregister\\dnnregrister\\desktopmodules\\logingg\\headerpage.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E08177-C3B8-484B-9445-F684FEB61752}|LoginGG.csproj|solutionrelative:headerpage.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLoginCallBack.ascx.cs",
+              "DocumentMoniker": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\FormLoginCallBack.ascx.cs",
+              "RelativeDocumentMoniker": "FormLoginCallBack.ascx.cs",
+              "ToolTip": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\FormLoginCallBack.ascx.cs*",
+              "RelativeToolTip": "FormLoginCallBack.ascx.cs*",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:16.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.ascx.cs",
+              "DocumentMoniker": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\View.ascx.cs",
+              "RelativeDocumentMoniker": "View.ascx.cs",
+              "ToolTip": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\View.ascx.cs",
+              "RelativeToolTip": "View.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:25:31.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.ascx.cs",
+              "DocumentMoniker": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\Home.ascx.cs",
+              "RelativeDocumentMoniker": "Home.ascx.cs",
+              "ToolTip": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\Home.ascx.cs",
+              "RelativeToolTip": "Home.ascx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:24:54.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.ascx",
+              "DocumentMoniker": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\Home.ascx",
+              "RelativeDocumentMoniker": "Home.ascx",
+              "ToolTip": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\Home.ascx",
+              "RelativeToolTip": "Home.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-27T01:24:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeaderPage.ascx.cs",
+              "DocumentMoniker": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\HeaderPage.ascx.cs",
+              "RelativeDocumentMoniker": "HeaderPage.ascx.cs",
+              "ToolTip": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\HeaderPage.ascx.cs",
+              "RelativeToolTip": "HeaderPage.ascx.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAD0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T00:46:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeaderPage.ascx",
+              "DocumentMoniker": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\HeaderPage.ascx",
+              "RelativeDocumentMoniker": "HeaderPage.ascx",
+              "ToolTip": "E:\\DNNRegister\\DNNRegrister\\DesktopModules\\LoginGG\\HeaderPage.ascx",
+              "RelativeToolTip": "HeaderPage.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-26T23:24:39.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

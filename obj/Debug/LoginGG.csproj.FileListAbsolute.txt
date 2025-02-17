@@ -1,0 +1,8 @@
+E:\DNNRegister\DNNRegrister\bin\LoginGG.dll.config
+E:\DNNRegister\DNNRegrister\bin\LoginGG.dll
+E:\DNNRegister\DNNRegrister\bin\LoginGG.pdb
+E:\DNNRegister\DNNRegrister\DesktopModules\LoginGG\obj\Debug\LoginGG.csproj.AssemblyReference.cache
+E:\DNNRegister\DNNRegrister\DesktopModules\LoginGG\obj\Debug\LoginGG.csproj.CoreCompileInputs.cache
+E:\DNNRegister\DNNRegrister\DesktopModules\LoginGG\obj\Debug\LoginGG.csproj.Up2Date
+E:\DNNRegister\DNNRegrister\DesktopModules\LoginGG\obj\Debug\LoginGG.dll
+E:\DNNRegister\DNNRegrister\DesktopModules\LoginGG\obj\Debug\LoginGG.pdb

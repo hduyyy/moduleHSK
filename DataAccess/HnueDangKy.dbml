@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="dnnregrister" Class="HnueDangKyDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.HnueDangKyThi" Member="HnueDangKyThis">
+    <Type Name="HnueDangKyThi">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmailUser" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ho_ten" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="ten_theonn" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ngay_sinh" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="loai_giay_to" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="gioi_tinh" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="cccd" Type="System.String" DbType="VarChar(12) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="so_dien_thoai" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="dia_chi" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="dot_thi" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="so_nam_hoc_nn" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="file_cccd_truoc_url" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="file_cccd_sau_url" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="file_anh_the_url" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="file_bienlai_noptien_url" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="hinh_thuc_thi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="trang_thai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ngay_dang_ky" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ngay_cap_nhat" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
